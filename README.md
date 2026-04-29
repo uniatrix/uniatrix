@@ -12,9 +12,7 @@ Baseado no Rio de Janeiro.
 
 **MMO private server** — Stack completo de um servidor de jogo online com base ativa de jogadores: emulador em C++, web em PHP, wiki em Next.js, painéis administrativos. *Repo privado.*
 
-**[Coposip](https://www.coposip.com.br/)** — Site institucional comercial entregue para cliente pagante. Online desde 2025. *Repo privado.*
-
-## Trabalhos públicos
+## Trabalhos e Projetos
 
 **[anamnese-ipad](https://github.com/uniatrix/anamnese-ipad)** — Ficha clínica de anamnese ABA (TEA, infantil) para preenchimento manuscrito direto no iPad com Apple Pencil. Canvas customizado com stroke smoothing à la Procreate, undo por gesto de dois dedos, modo Scribble como saída digitada, persistência local em IndexedDB e modo páginas alternativo. Next.js 16 · React 19 · Tailwind v4 · shadcn/ui · Framer Motion.
 
@@ -25,6 +23,8 @@ Baseado no Rio de Janeiro.
 **[teravita-app](https://github.com/uniatrix/teravita-app)** — MVP de sistema para clínica de psicologia infantil com foco em TEA.
 
 **[legal-oasis-suite](https://github.com/uniatrix/legal-oasis-suite)** · **[sistemas-seabra-web](https://github.com/uniatrix/sistemas-seabra-web)** · **[Villa-Mia](https://github.com/uniatrix/Villa-Mia)** — Sites institucionais (escritório de advocacia, Sistema Seabra, hotel boutique).
+
+**[Coposip](https://www.coposip.com.br/)** — Site institucional comercial entregue para cliente pagante. Online desde 2025. *Repo privado.*
 
 ## Stack
 
@@ -53,7 +53,7 @@ Based in Rio de Janeiro.
 
 **[Coposip](https://www.coposip.com.br/)** — Commercial institutional site delivered to a paying client. Live since 2025. *Private repo.*
 
-### Public work
+### Jobs and Projects
 
 **[anamnese-ipad](https://github.com/uniatrix/anamnese-ipad)** — Pediatric ABA anamnesis form (autism focus) for handwritten input directly on iPad with Apple Pencil. Custom canvas with Procreate-style stroke smoothing, two-finger gesture undo, Scribble mode as typed output, local IndexedDB persistence and an alternative page-based view. Next.js 16, React 19, Tailwind v4, shadcn/ui, Framer Motion.
 
